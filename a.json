@@ -1,0 +1,11 @@
+{
+   "version" : 30,
+   "initialAssetCount" : 4,
+   "assets" : [
+      {
+         "id" : "2022marcomloop30",
+         "url-1080-H264" : "https://sylvan.apple.com/Aerials/2x/Videos/g201_WH_D004_L014_SDR_20191031_SDR_2K_HEVC.mov",
+         "accessibilityLabel" : "2022dec-marcomloop"
+      }
+   ]
+}
